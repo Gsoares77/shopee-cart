@@ -1,0 +1,10 @@
+### Objetivo
+
+Criar um carrinho de compras baseado no carrinho de compras da shopee, aonde o carrinho armazema itens e faça o cálculo do sub-itens automaticamente
+
+
+// dominio de aplicação: carrinho de compras
+
+// as entidades representadas
+//-> carrinho = cart.js
+//-> itens = item.js
